@@ -28,20 +28,20 @@ class ProfileCard extends StatelessWidget {
             const SizedBox(
               height: 20,
             ),
-             const Text("Online Shopping Solution",
+             const Text("Shopping Solution",
               style: TextStyle(
                 fontSize: 20,
                 fontWeight:
                 FontWeight.bold,
-                fontFamily: "Roboto",
+                fontFamily: "Poppin",
                 color: Colors.white,
                 ),),
              const SizedBox(
                height: 20,
              ),
             Container(
-              height: 3,
-              width: 200,
+              height: 2,
+              width: 150,
               color: Colors.white70,
 
             ),

@@ -79,11 +79,17 @@ flutter:
   # example:
   fonts:
 #    - family: Schyler
+
     - family: Pacifico
+
       fonts:
 #        - asset: fonts/Schyler-Regular.ttf
 #        - asset: fonts/Schyler-Italic.ttf
         - asset: assets/Pacifico-Regular.ttf
+    - family: Poppin
+      fonts:
+        - asset: assets/Poppins-Regular.ttf
+
 #          style: italic
 #    - family: Trajan Pro
 #      fonts:
