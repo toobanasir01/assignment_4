@@ -11,7 +11,7 @@ class ProfileCard extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Image.asset('assets/shop.png'),
+             Image.asset('assets/shop.png'),
              const CircleAvatar(
               radius: 80,
               backgroundColor: Colors.white,
